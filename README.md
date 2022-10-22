@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darkkira
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Back-Hand 
+- 🌱 I’m currently learning Full Stack Web Developer
 - 💞️ I’m looking to collaborate on Hiring me to jo job.  
 - 📫 How to reach me Hemant2307sb@gmail.com
 
