@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darkkira
+- 👋 Hi, I’m @Hemant Singh Bangari
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Web Developer
 - 💞️ I’m looking to collaborate on Hiring me to jo job.  
